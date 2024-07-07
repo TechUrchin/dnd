@@ -1,5 +1,5 @@
 print("DnD Initiative tracker\n")
-number_of_enemies = input("Add the number of enemies")
+number_of_enemies = input("Add the number of enemies ")
 
 players = ["Onyx", "Varic", "Thorgar", "Chadwick", "BlackThorn", "Dellora", "Alarik"]
 
